@@ -1,0 +1,143 @@
+{
+    "solution": [
+        "exemplar_17",
+        "exemplar_18",
+        "exemplar_19",
+        "exemplar_20",
+        "exemplar_21",
+        "exemplar_22",
+        "exemplar_23",
+        "exemplar_24"
+    ],
+    "solution_size": 8,
+    "weighted": true,
+    "solution_weight": 8,
+    "algorithm": "greedy",
+    "corpus": {
+        "exemplar_22": {
+            "weight": 1,
+            "value": "0000000000110000"
+        },
+        "exemplar_03": {
+            "weight": 1,
+            "value": "0010000000000000"
+        },
+        "exemplar_23": {
+            "weight": 1,
+            "value": "0000000000001100"
+        },
+        "exemplar_04": {
+            "weight": 1,
+            "value": "0001000000000000"
+        },
+        "exemplar_19": {
+            "weight": 1,
+            "value": "0000110000000000"
+        },
+        "exemplar_05": {
+            "weight": 1,
+            "value": "0000100000000000"
+        },
+        "exemplar_18": {
+            "weight": 1,
+            "value": "0011000000000000"
+        },
+        "exemplar_15": {
+            "weight": 1,
+            "value": "0000000000000010"
+        },
+        "exemplar_16": {
+            "weight": 1,
+            "value": "0000000000000001"
+        },
+        "exemplar_17": {
+            "weight": 1,
+            "value": "1100000000000000"
+        },
+        "exemplar_14": {
+            "weight": 1,
+            "value": "0000000000000100"
+        },
+        "exemplar_08": {
+            "weight": 1,
+            "value": "0000000100000000"
+        },
+        "exemplar_09": {
+            "weight": 1,
+            "value": "0000000010000000"
+        },
+        "exemplar_20": {
+            "weight": 1,
+            "value": "0000001100000000"
+        },
+        "exemplar_21": {
+            "weight": 1,
+            "value": "0000000011000000"
+        },
+        "exemplar_26": {
+            "weight": 5,
+            "value": "0000111100000000"
+        },
+        "exemplar_27": {
+            "weight": 5,
+            "value": "0000000011110000"
+        },
+        "exemplar_24": {
+            "weight": 1,
+            "value": "0000000000000011"
+        },
+        "exemplar_25": {
+            "weight": 5,
+            "value": "1111000000000000"
+        },
+        "exemplar_13": {
+            "weight": 1,
+            "value": "0000000000001000"
+        },
+        "exemplar_01": {
+            "weight": 1,
+            "value": "1000000000000000"
+        },
+        "exemplar_02": {
+            "weight": 1,
+            "value": "0100000000000000"
+        },
+        "exemplar_29": {
+            "weight": 9,
+            "value": "1111111100000000"
+        },
+        "exemplar_31": {
+            "weight": 17,
+            "value": "1111111111111111"
+        },
+        "exemplar_30": {
+            "weight": 9,
+            "value": "0000000011111111"
+        },
+        "exemplar_06": {
+            "weight": 1,
+            "value": "0000010000000000"
+        },
+        "exemplar_07": {
+            "weight": 1,
+            "value": "0000001000000000"
+        },
+        "exemplar_28": {
+            "weight": 5,
+            "value": "0000000000001111"
+        },
+        "exemplar_12": {
+            "weight": 1,
+            "value": "0000000000010000"
+        },
+        "exemplar_10": {
+            "weight": 1,
+            "value": "0000000001000000"
+        },
+        "exemplar_11": {
+            "weight": 1,
+            "value": "0000000000100000"
+        }
+    },
+    "initial_singularities": 0
+}

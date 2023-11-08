@@ -1,0 +1,101 @@
+{
+    "solution": [
+        "exemplar_01",
+        "exemplar_02",
+        "exemplar_03",
+        "exemplar_04",
+        "exemplar_05",
+        "exemplar_06",
+        "exemplar_07",
+        "exemplar_08",
+        "exemplar_09",
+        "exemplar_10",
+        "exemplar_11",
+        "exemplar_12",
+        "exemplar_13",
+        "exemplar_14",
+        "exemplar_15",
+        "exemplar_16",
+        "exemplar_17",
+        "exemplar_18"
+    ],
+    "solution_size": 18,
+    "weighted": true,
+    "solution_weight": 90,
+    "algorithm": "milhayes",
+    "corpus": {
+        "exemplar_03": {
+            "weight": 3,
+            "value": "00000000000000000000000000000000001"
+        },
+        "exemplar_17": {
+            "weight": 8,
+            "value": "0000000100000000"
+        },
+        "exemplar_05": {
+            "weight": 5,
+            "value": "0000000000000000000000000000000000001"
+        },
+        "exemplar_15": {
+            "weight": 6,
+            "value": "00000100000000"
+        },
+        "exemplar_14": {
+            "weight": 5,
+            "value": "0000100000000"
+        },
+        "exemplar_08": {
+            "weight": 8,
+            "value": "0000000000000000000000000000000000000001"
+        },
+        "exemplar_09": {
+            "weight": 9,
+            "value": "000000000000000000000000000000000000000010000000"
+        },
+        "exemplar_18": {
+            "weight": 9,
+            "value": "00000000100000000"
+        },
+        "exemplar_13": {
+            "weight": 4,
+            "value": "000100000000"
+        },
+        "exemplar_01": {
+            "weight": 1,
+            "value": "000000000000000000000000000000001"
+        },
+        "exemplar_02": {
+            "weight": 2,
+            "value": "0000000000000000000000000000000001"
+        },
+        "exemplar_10": {
+            "weight": 1,
+            "value": "100000000"
+        },
+        "exemplar_04": {
+            "weight": 4,
+            "value": "000000000000000000000000000000000001"
+        },
+        "exemplar_16": {
+            "weight": 7,
+            "value": "000000100000000"
+        },
+        "exemplar_06": {
+            "weight": 6,
+            "value": "00000000000000000000000000000000000001"
+        },
+        "exemplar_07": {
+            "weight": 7,
+            "value": "000000000000000000000000000000000000001"
+        },
+        "exemplar_12": {
+            "weight": 3,
+            "value": "00100000000"
+        },
+        "exemplar_11": {
+            "weight": 2,
+            "value": "0100000000"
+        }
+    },
+    "initial_singularities": 30
+}

@@ -1,0 +1,45 @@
+{
+    "solution": [
+        "exemplar_01",
+        "exemplar_02"
+    ],
+    "solution_size": 2,
+    "weighted": true,
+    "solution_weight": 109,
+    "algorithm": "greedy",
+    "corpus": {
+        "exemplar_08": {
+            "weight": 3,
+            "value": "11"
+        },
+        "exemplar_01": {
+            "weight": 100,
+            "value": "1111111111000000"
+        },
+        "exemplar_02": {
+            "weight": 9,
+            "value": "111111111"
+        },
+        "exemplar_03": {
+            "weight": 8,
+            "value": "1111111"
+        },
+        "exemplar_04": {
+            "weight": 7,
+            "value": "111111"
+        },
+        "exemplar_05": {
+            "weight": 6,
+            "value": "11111"
+        },
+        "exemplar_06": {
+            "weight": 5,
+            "value": "1111"
+        },
+        "exemplar_07": {
+            "weight": 4,
+            "value": "111"
+        }
+    },
+    "initial_singularities": 6
+}

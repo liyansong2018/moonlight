@@ -1,0 +1,44 @@
+{
+    "solution": [
+        "exemplar_01"
+    ],
+    "solution_size": 1,
+    "weighted": false,
+    "solution_weight": 1,
+    "algorithm": "milhayes",
+    "corpus": {
+        "exemplar_08": {
+            "weight": 4,
+            "value": "1010000101011110010010101001010101001011"
+        },
+        "exemplar_01": {
+            "weight": 93,
+            "value": "1010000101011110010010101001010101001011"
+        },
+        "exemplar_02": {
+            "weight": 13,
+            "value": "1010000101011110010010101001010101001011"
+        },
+        "exemplar_03": {
+            "weight": 16,
+            "value": "1010000101011110010010101001010101001011"
+        },
+        "exemplar_04": {
+            "weight": 3,
+            "value": "1010000101011110010010101001010101001011"
+        },
+        "exemplar_05": {
+            "weight": 34,
+            "value": "1010000101011110010010101001010101001011"
+        },
+        "exemplar_06": {
+            "weight": 11,
+            "value": "1010000101011110010010101001010101001011"
+        },
+        "exemplar_07": {
+            "weight": 5,
+            "value": "1010000101011110010010101001010101001011"
+        }
+    },
+    "initial_singularities": 21
+}

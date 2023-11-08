@@ -1,0 +1,33 @@
+{
+    "solution": [
+        "exemplar_02",
+        "exemplar_04"
+    ],
+    "solution_size": 2,
+    "weighted": true,
+    "solution_weight": 240,
+    "algorithm": "greedy",
+    "corpus": {
+        "exemplar_01": {
+            "weight": 141,
+            "value": "01111"
+        },
+        "exemplar_02": {
+            "weight": 140,
+            "value": "01110"
+        },
+        "exemplar_03": {
+            "weight": 101,
+            "value": "10011"
+        },
+        "exemplar_04": {
+            "weight": 100,
+            "value": "11001"
+        },
+        "exemplar_05": {
+            "weight": 101,
+            "value": "10100"
+        }
+    },
+    "initial_singularities": 3
+}

@@ -1,0 +1,14 @@
+{
+    "solution": [],
+    "solution_size": 0,
+    "weighted": false,
+    "solution_weight": 0,
+    "algorithm": "greedy",
+    "corpus": {
+        "exemplar_01": {
+            "weight": 1,
+            "value": "0"
+        }
+    },
+    "initial_singularities": 8
+}
