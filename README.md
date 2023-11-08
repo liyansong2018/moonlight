@@ -77,6 +77,10 @@ See [here](COMPILE.md)
 
 See [here](USAGE.md)
 
+## Simple Usage
+
+See [here](SIMPLE_USAGE.md)
+
 ## Trace Data
 
 For more information on the expected input format of seed trace data see

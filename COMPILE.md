@@ -36,12 +36,12 @@ pip install -r moonlight-code/python/requirements.txt
 To build MoonLight:
 
 ```console
-git clone https://gitlab.com/cybersec/moonlight-code.git
+git clone https://github.com/liyansong2018/moonlight.git
 cd moonlight-code
 mkdir build && cd build
-cmake -DCMAKE_INSTALL_PREFIX=/path/to/install/directory ..
+# cmake -DCMAKE_INSTALL_PREFIX=/path/to/install/directory ..
 make
-make install
+# make install
 ```
 
 To build the documentation:
