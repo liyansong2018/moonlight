@@ -71,7 +71,7 @@ work:
 
 ## Installation
 
-See [here](INSTALL.md)
+See [here](COMPILE.md)
 
 ## Usage
 
